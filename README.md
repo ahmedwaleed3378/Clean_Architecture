@@ -1,4 +1,4 @@
-# advanced_course
+# Clean Architecture Application 
 
 A new Flutter project.
 
